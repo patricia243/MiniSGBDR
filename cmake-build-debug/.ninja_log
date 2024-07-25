@@ -1,0 +1,9 @@
+# ninja log v6
+231	886	7435953139535025	CMakeFiles/ProjectC.dir/data.c.obj	ed39edf4aca9e900
+577	1733	7436078058151643	CMakeFiles/ProjectC.dir/Table.c.obj	2be6612e863495f0
+133	880	7435953138550892	CMakeFiles/ProjectC.dir/main.c.obj	9d5603b5faf78d9c
+901	1180	7434370226754674	CMakeFiles/ProjectC.dir/stokage.c.obj	65333a61b60cf566
+1736	3576	7436078069701631	ProjectC.exe	60dbe1ca2c17f6c2
+884	1181	7434370226584681	CMakeFiles/ProjectC.dir/query.c.obj	e769ed8bcac2542e
+39	1133	7436144057601332	CMakeFiles/ProjectC.dir/main.c.obj	9d5603b5faf78d9c
+75	1153	7436144057958568	CMakeFiles/ProjectC.dir/data.c.obj	ed39edf4aca9e900
